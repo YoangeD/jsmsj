@@ -1,3 +1,5 @@
+![Profile view counter](https://komarev.com/ghpvc/?username=jsmsj&style=flat-square&color=blueviolet)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmsj&show_icons=true&theme=radical)
 
 <br>
@@ -9,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsmsj&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
-![](https://komarev.com/ghpvc/?username=jsmsj&style=flat-square&color=blueviolet)
+
 
 
 
